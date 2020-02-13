@@ -1,1 +1,1 @@
-# spolecenstvo-krabu
+# Společenstvo Krabů group data analysis
