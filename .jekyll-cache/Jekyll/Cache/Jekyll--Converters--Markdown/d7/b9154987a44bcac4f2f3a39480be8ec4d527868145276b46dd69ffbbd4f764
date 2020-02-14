@@ -1,0 +1,13 @@
+I"%<h3 align="center">Počet odeslaných zpráv podle jména</h3>
+
+<p><img src="images/jmena.png" alt="Branching" /></p>
+
+<hr />
+
+<h3 align="center">Počet odeslaných zpráv v jednotlivých měsících</h3>
+
+<p align="center">
+    <img alt="zpravy podle mesice" src="images/mesice.png" />
+</p>
+
+:ET
