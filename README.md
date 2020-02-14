@@ -1,5 +1,5 @@
 <h1 align="center">Společesntvo krabů</h1>
-<h2 align="center">analýza zpráv</h2>
+<h2 align="center">ANALÝZA ZPRÁV</h2>
 
 <hr/> 
 
@@ -7,7 +7,8 @@
     <img alt="zpravy podle jmena" src="images/jmena.png">
 </p>
 
-<h3 align="center">Dictionary</h3>
+<hr/>
+
 <p align="center">
     <img alt="zpravy podle mesice" src="images/mesice.png">
 </p>
