@@ -1,0 +1,36 @@
+I"�<h3 align="center">Zprávy napsané v daným člověkem</h3>
+
+<p><img src="images/jmena.png" alt="zpravy podle jmena" /></p>
+
+<hr />
+
+<h3 align="center">Zprávy napsané v daným člověkem 2</h3>
+
+<p align="center">
+    <img alt="zpravy za mesic" src="images/jmena_pie.png" />
+</p>
+
+<hr />
+
+<h3 align="center">Zprávy napsané v jednotlivých měsících</h3>
+
+<p align="center">
+    <img alt="zpravy za mesic" src="images/mesice.png" />
+</p>
+
+<hr />
+
+<h3 align="center">Zprávy napsané v jednotlivých dnech</h3>
+
+<p align="center">
+    <img alt="zpravy za mesic" src="images/dny.png" />
+</p>
+
+<hr />
+
+<h3 align="center">Zprávy napsané v jednotlivých hodinách</h3>
+
+<p align="center">
+    <img alt="zpravy za mesic" src="images/hodiny.png" />
+</p>
+:ET
