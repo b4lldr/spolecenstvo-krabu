@@ -1,10 +1,10 @@
-I"�<h2 align="center">Zprávy napsané daným člověkem</h2>
+I"�<h2 align="center">Zprávy podle jména</h2>
 
 <p><img src="images/jmena.png" alt="zpravy podle jmena" /></p>
 
 <hr />
 
-<h2 align="center">Zprávy napsané daným člověkem 2</h2>
+<h2 align="center">Zprávy podle jména 2</h2>
 
 <p align="center">
     <img alt="zpravy za mesic" src="images/jmena_pie.png" />
@@ -12,7 +12,7 @@
 
 <hr />
 
-<h2 align="center">Zprávy napsané v jednotlivých měsících</h2>
+<h2 align="center">Zprávy podle měsíců</h2>
 
 <p align="center">
     <img alt="zpravy za mesic" src="images/mesice.png" />
@@ -20,7 +20,7 @@
 
 <hr />
 
-<h2 align="center">Zprávy napsané v jednotlivých dnech</h2>
+<h2 align="center">Zprávy podle dnů</h2>
 
 <p align="center">
     <img alt="zpravy za mesic" src="images/dny.png" />
@@ -28,7 +28,7 @@
 
 <hr />
 
-<h2 align="center">Zprávy napsané v jednotlivých hodinách</h2>
+<h2 align="center">Zprávy podle hodin</h2>
 
 <p align="center">
     <img alt="zpravy za mesic" src="images/hodiny.png" />
