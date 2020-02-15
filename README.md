@@ -1,14 +1,5 @@
-<h1 align="center">Společesntvo krabů</h1>
-<h2 align="center">ANALÝZA ZPRÁV</h2>
+# Společenstvo Krabů - analýza zpráv
 
-<hr/> 
+Výsledná stránka je dostupná na adrese [b4lldr.github.io/spolecenstvo-krabu](b4lldr.github.io/spolecenstvo-krabu).
 
-<p align="center">
-    <img alt="zpravy podle jmena" src="images/jmena.png">
-</p>
-
-<hr/>
-
-<p align="center">
-    <img alt="zpravy podle mesice" src="images/mesice.png">
-</p>
+![data siens](siens.png)
