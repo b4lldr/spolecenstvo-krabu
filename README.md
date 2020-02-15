@@ -1,4 +1,4 @@
-<h1 align="center">Společesntvo krabů - analýza zpráv</h1>
+<h1 align="center">Společenstvo Krabů - analýza zpráv</h1>
 
 <p align="center">
     Zpracovávaná data jsou aktuální ke dni 13.1.2020
