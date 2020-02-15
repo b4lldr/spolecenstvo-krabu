@@ -16,3 +16,4 @@ description: ANALÝZA ZPRÁV
     <img alt="zpravy podle mesice" src="images/mesice.png">
 </p>
 
+<hr/>
