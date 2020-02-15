@@ -4,13 +4,13 @@ title: Společenstvo Krabů
 description: ANALÝZA ZPRÁV
 ---
 
-<h2 align="center">Zprávy podle jména</h2>
+<h2 align="center">Zprávy podle jmen</h2>
 
 ![zpravy podle jmena](images/jmena.png)
 
 <hr/>
 
-<h2 align="center">Zprávy podle jména 2</h2>
+<h2 align="center">Zprávy podle jmen 2</h2>
 
 <p align="center">
     <img alt="zpravy za mesic" src="images/jmena_pie.png">
