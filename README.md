@@ -1,13 +1,19 @@
 <h1 align="center">Společenstvo Krabů - analýza zpráv</h1>
 
 <p align="center">
-    Zpracovávaná data jsou aktuální ke dni 13.1.2020
+    Zpracovávaná data jsou získána s využitím utility <a href="https://github.com/whaypr/termess">termess</a>
+</p>
+<p align="center">
+    <b>Aktuální ke dni 13.1.2020</b>
 </p>
 
-<p align="center">
-    Výsledná stránka je dostupná na adrese  <a href="https://b4lldr.github.io/spolecenstvo-krabu/">b4lldr.github.io/spolecenstvo-krabu/</a>
-</p>
+<hr/>
 
 <p align="center">
-    <img alt="data siens" src="siens.png">
+    Jupyter notebook: <a href="Data Visualization.ipynb">Data Visualization.ipynb</a>
 </p>
+<p align="center">
+    Výsledný web s grafy: <a href="https://whaypr.github.io/spolecenstvo-krabu/">whaypr.github.io/spolecenstvo-krabu/</a>
+</p>
+
+<hr/>
